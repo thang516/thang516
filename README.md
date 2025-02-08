@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Thang Duc Nguyen
 ========================================================================================================================================
 
-Software Development
+Software Developer
 --------------------
 
 I've been learning to code for 3 years. I started with HTML, CSS, and Bootstrap. Currently, I'm working with Java and ReactJS. In the future, I plan to learn VueJS, NextJS, and AWS for developers.
